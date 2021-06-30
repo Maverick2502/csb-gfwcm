@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://maverick2502.github.io/csb-gfwcm/static/css/main.15917e81.chunk.css",
+    "main.js": "https://maverick2502.github.io/csb-gfwcm/static/js/main.d82e2aa7.chunk.js",
+    "main.js.map": "https://maverick2502.github.io/csb-gfwcm/static/js/main.d82e2aa7.chunk.js.map",
+    "runtime-main.js": "https://maverick2502.github.io/csb-gfwcm/static/js/runtime-main.e487854e.js",
+    "runtime-main.js.map": "https://maverick2502.github.io/csb-gfwcm/static/js/runtime-main.e487854e.js.map",
+    "static/js/2.0173a767.chunk.js": "https://maverick2502.github.io/csb-gfwcm/static/js/2.0173a767.chunk.js",
+    "static/js/2.0173a767.chunk.js.map": "https://maverick2502.github.io/csb-gfwcm/static/js/2.0173a767.chunk.js.map",
+    "index.html": "https://maverick2502.github.io/csb-gfwcm/index.html",
+    "static/css/main.15917e81.chunk.css.map": "https://maverick2502.github.io/csb-gfwcm/static/css/main.15917e81.chunk.css.map",
+    "static/js/2.0173a767.chunk.js.LICENSE.txt": "https://maverick2502.github.io/csb-gfwcm/static/js/2.0173a767.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e487854e.js",
+    "static/js/2.0173a767.chunk.js",
+    "static/css/main.15917e81.chunk.css",
+    "static/js/main.d82e2aa7.chunk.js"
+  ]
+}
